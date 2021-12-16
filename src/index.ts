@@ -29,7 +29,7 @@ import { SoundEmitter } from "./game/SoundEmitter";
         container.append(game.canvas);
 
         let menu = new Menu();
-        menu.changeActiveScreen(menu.getScreen(2));
+        menu.changeActiveScreen(menu.getScreen(0));
         container.append(menu.canvas);
 
         let prevTime = 0
