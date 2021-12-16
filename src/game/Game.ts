@@ -60,8 +60,8 @@ export class Game {
 
         this.player = new Player(5 * BLOCKSIZE, (120).toRad(), lives);
         // this.player.position.set(BLOCKSIZE * 2, 0, BLOCKSIZE * 2);
-        // this.player.position.set(BLOCKSIZE * 29, 0, BLOCKSIZE * 57);
-        this.player.position.set(BLOCKSIZE * 23, 0, BLOCKSIZE * 47);
+        this.player.position.set(BLOCKSIZE * 29, 0, BLOCKSIZE * 57);
+        // this.player.position.set(BLOCKSIZE * 23, 0, BLOCKSIZE * 47);
         this.player.rotation.set(undefined, (-90).toRad(), undefined);
         this.player.setShootFunction((i, n) => {
             this.shootEnemies(i, n);
@@ -131,6 +131,7 @@ export class Game {
 
                 if (maxLength === undefined) {
                     this.player.changeAmmo(-1);
+                    this.alertEnemies();
                 }
 
                 let result = Raycaster.raycastEnemies(
@@ -161,11 +162,23 @@ export class Game {
             let res = Raycaster.raycastPlayer(BLOCKSIZE, enemy.position.toVector2(), this.player.position.sub(enemy.position).toVector2().normalize(), this.scene, undefined, this.player);
 
             if (res === true) {
-                this.player.changeHealth(-Math.round(100 * (Math.random() * 0.8 + 0.6)));
+                this.player.changeHealth(-Math.round(10 * (Math.random() * 0.8 + 0.6)));
                 SoundEmitter.instance.play(Sounds.player_pain_2);
                 SoundEmitter.instance.play(Sounds.pistol);
             }
         }
+    }
+
+    private alertEnemies() {
+        this.scene.children.forEach(child => {
+            if (child instanceof Enemy) {
+                let len = child.position.sub(this.player.position).length();
+
+                if (len <= 10 * BLOCKSIZE && child.alerted === false) {
+                    child.alerted = true;
+                }
+            }
+        });
     }
 
     render(delta: number): GameReturnData | "GAME_OVER" | "DEAD" {

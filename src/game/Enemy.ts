@@ -76,6 +76,7 @@ export class Enemy extends Plane {
 
         if (v === true) {
             this.moveTo(this.position, true);
+            this._stateMachine.changeState("shooting");
         }
     }
 
