@@ -8365,5 +8365,148 @@
             "texture": "enemy_trooper_attack_01"
         },
         "enemyType": "trooper"
+    },
+    {
+        "posX": 33,
+        "posY": 0,
+        "posZ": 39,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_machinegun"
+        },
+        "pickupType": 14
+    },
+    {
+        "posX": 33,
+        "posY": 0,
+        "posZ": 40,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 33,
+        "posY": 0,
+        "posZ": 41,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 35,
+        "posY": 0,
+        "posZ": 39,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 35,
+        "posY": 0,
+        "posZ": 40,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 35,
+        "posY": 0,
+        "posZ": 41,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 30,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 31,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 32,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 33,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_chaingun"
+        },
+        "pickupType": 15
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 34,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 35,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 36,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
     }
 ]
