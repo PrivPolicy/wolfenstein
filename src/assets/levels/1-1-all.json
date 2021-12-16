@@ -8233,5 +8233,137 @@
         },
         "rotY": 90,
         "special": true
+    },
+    {
+        "posX": 34,
+        "posY": 0,
+        "posZ": 42,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 58,
+        "posY": 0,
+        "posZ": 31,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 55,
+        "posY": 0,
+        "posZ": 44,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 32,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 22,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 34,
+        "posY": 0,
+        "posZ": 8,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 42,
+        "posY": 0,
+        "posZ": 11,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 19,
+        "posY": 0,
+        "posZ": 17,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 9,
+        "posY": 0,
+        "posZ": 18,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 10,
+        "posY": 0,
+        "posZ": 33,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 2,
+        "posY": 0,
+        "posZ": 33,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 21,
+        "posY": 0,
+        "posZ": 47,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
     }
 ]
