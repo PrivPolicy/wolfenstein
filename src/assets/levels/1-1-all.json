@@ -394,20 +394,64 @@
         "posY": 0,
         "posZ": 10,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_wood"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
     },
     {
         "posX": 40,
         "posY": 0,
         "posZ": 10,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_wood"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
     },
     {
         "posX": 41,
@@ -471,7 +515,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -483,7 +527,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -506,7 +550,7 @@
             "type": "normal",
             "texture": "object_chandelier"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -556,20 +600,64 @@
         "posY": 0,
         "posZ": 12,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
     },
     {
         "posX": 40,
         "posY": 0,
         "posZ": 12,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_wood"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
     },
     {
         "posX": 41,
@@ -1119,10 +1207,32 @@
         "posY": 0,
         "posZ": 15,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_wood"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
     },
     {
         "posX": 34,
@@ -1140,10 +1250,32 @@
         "posY": 0,
         "posZ": 15,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_wood"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
     },
     {
         "posX": 36,
@@ -1210,10 +1342,32 @@
         "posY": 0,
         "posZ": 16,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 23,
@@ -1299,7 +1453,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -1347,10 +1501,32 @@
         "posY": 0,
         "posZ": 18,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 23,
@@ -1381,7 +1557,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -1723,7 +1899,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -1781,10 +1957,32 @@
         "posY": 0,
         "posZ": 21,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 10,
@@ -1802,10 +2000,32 @@
         "posY": 0,
         "posZ": 21,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 12,
@@ -1966,7 +2186,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -2006,10 +2226,32 @@
         "posY": 0,
         "posZ": 23,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 2,
@@ -2027,10 +2269,32 @@
         "posY": 0,
         "posZ": 23,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 4,
@@ -2061,7 +2325,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -2243,7 +2507,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -2306,7 +2570,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -2338,7 +2602,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -2360,7 +2624,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -2529,10 +2793,32 @@
         "posY": 0,
         "posZ": 28,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 10,
@@ -2550,10 +2836,32 @@
         "posY": 0,
         "posZ": 28,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 12,
@@ -2610,10 +2918,32 @@
         "posY": 0,
         "posZ": 28,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_wood"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
     },
     {
         "posX": 34,
@@ -2631,10 +2961,32 @@
         "posY": 0,
         "posZ": 28,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_wood"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
     },
     {
         "posX": 36,
@@ -2960,7 +3312,7 @@
             "type": "normal",
             "texture": "object_water"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -3028,7 +3380,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -3176,7 +3528,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -3188,7 +3540,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -3356,10 +3708,32 @@
         "posY": 0,
         "posZ": 32,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 15,
@@ -3386,20 +3760,64 @@
         "posY": 0,
         "posZ": 32,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 53,
         "posY": 0,
         "posZ": 32,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 62,
@@ -3461,7 +3879,7 @@
             "type": "normal",
             "texture": "object_chandelier"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -3473,7 +3891,7 @@
             "type": "normal",
             "texture": "object_chandelier"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -3485,7 +3903,7 @@
             "type": "normal",
             "texture": "object_chandelier"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -3546,10 +3964,32 @@
         "posY": 0,
         "posZ": 34,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 15,
@@ -3576,20 +4016,64 @@
         "posY": 0,
         "posZ": 34,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 53,
         "posY": 0,
         "posZ": 34,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 62,
@@ -3640,7 +4124,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -3652,7 +4136,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -4175,7 +4659,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -4233,10 +4717,32 @@
         "posY": 0,
         "posZ": 38,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 10,
@@ -4254,10 +4760,32 @@
         "posY": 0,
         "posZ": 38,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 12,
@@ -4324,10 +4852,32 @@
         "posY": 0,
         "posZ": 38,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 34,
@@ -4345,10 +4895,32 @@
         "posY": 0,
         "posZ": 38,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 36,
@@ -4699,7 +5271,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -4933,7 +5505,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -4955,7 +5527,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -5164,10 +5736,32 @@
         "posY": 0,
         "posZ": 43,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 60,
@@ -5198,7 +5792,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -5280,7 +5874,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -5323,7 +5917,7 @@
             "type": "normal",
             "texture": "object_skeleton_laying"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -5561,10 +6155,32 @@
         "posY": 0,
         "posZ": 45,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 60,
@@ -5591,20 +6207,64 @@
         "posY": 0,
         "posZ": 46,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_mossy_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 24,
         "posY": 0,
         "posZ": 46,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_decoration_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            }
+        ]
     },
     {
         "posX": 25,
@@ -5775,7 +6435,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -5787,7 +6447,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -5802,22 +6462,10 @@
         "rotY": 90
     },
     {
-        "posX": 25,
-        "posY": 0,
-        "posZ": 47,
-        "type": "object",
-        "texture": {
-            "type": "normal",
-            "texture": "object_flag"
-        },
-        "colliderEnabled": true,
-        "raycastTarget": false
-    },
-    {
         "posX": 26,
         "posY": 0,
         "posZ": 47,
-        "type": "wall",
+        "type": "elevator",
         "texture": {
             "type": "normal",
             "texture": "wall_cobblestone_mossy_01"
@@ -5948,20 +6596,64 @@
         "posY": 0,
         "posZ": 48,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
     },
     {
         "posX": 24,
         "posY": 0,
         "posZ": 48,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_cobblestone_decoration_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_decoration_01"
+            }
+        ]
     },
     {
         "posX": 25,
@@ -6002,7 +6694,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -6350,10 +7042,32 @@
         "posY": 0,
         "posZ": 50,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 34,
@@ -6371,10 +7085,32 @@
         "posY": 0,
         "posZ": 50,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 36,
@@ -6455,7 +7191,7 @@
             "type": "normal",
             "texture": "object_skeleton_pile"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -6474,20 +7210,64 @@
         "posY": 0,
         "posZ": 51,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 36,
         "posY": 0,
         "posZ": 51,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 41,
@@ -6529,7 +7309,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -6568,20 +7348,64 @@
         "posY": 0,
         "posZ": 53,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 36,
         "posY": 0,
         "posZ": 53,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 39,
@@ -6592,7 +7416,7 @@
             "type": "normal",
             "texture": "object_skeleton_laying"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -6780,20 +7604,64 @@
         "posY": 0,
         "posZ": 56,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 36,
         "posY": 0,
         "posZ": 56,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "wall_bluestone_01"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 41,
@@ -6835,7 +7703,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -6869,7 +7737,7 @@
             "type": "normal",
             "texture": "object_skeleton_pile"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -6897,20 +7765,64 @@
         "posY": 0,
         "posZ": 58,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 36,
         "posY": 0,
         "posZ": 58,
         "type": "wall",
-        "texture": {
-            "type": "normal",
-            "texture": "door_side"
-        }
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
     },
     {
         "posX": 41,
@@ -7081,7 +7993,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -7093,7 +8005,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
@@ -7105,7 +8017,7 @@
             "type": "normal",
             "texture": "object_lamp_hanging"
         },
-        "colliderEnabled": true,
+        "colliderEnabled": false,
         "raycastTarget": false
     },
     {
