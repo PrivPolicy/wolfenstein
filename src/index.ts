@@ -45,7 +45,7 @@ import { SoundEmitter } from "./game/SoundEmitter";
                 data = game.render(delta);
             }
 
-            if (data === "GAME_OVER") {
+            if (data === "GAME_OVER" || game.won === true) {
                 menu.changeActiveScreen(menu.getScreen("screen_highscores"));
                 lives = 3;
                 container.removeChild(game.canvas);

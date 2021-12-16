@@ -12,11 +12,12 @@ import { StaticObject } from "./StaticObject";
 import { Enemies, Enemy, EnemyType } from "./Enemy";
 import { Vector3 } from "../engine/math/Vector3";
 import { Door } from "./Door";
+import { Elevator } from "./Elevator";
 
 export type LevelData = Tile[];
 
-export type TileJSON = IWall & IPickup & IObject & IDoor & IEnemy;
-export type Tile = IWall | IPickup | IObject | IDoor | IEnemy;
+export type TileJSON = IWall & IPickup & IObject & IDoor & IEnemy & IElevator;
+export type Tile = IWall | IPickup | IObject | IDoor | IEnemy | IElevator;
 
 export interface ITile {
     type: string
@@ -60,6 +61,10 @@ export interface IPickup extends ITile {
 export interface IEnemy extends ITile {
     type: "enemy"
     enemyType: EnemyType
+}
+
+export interface IElevator extends ITile {
+    type: "elevator"
 }
 
 export interface IDoor extends ITile {
@@ -122,6 +127,11 @@ export class Builder {
                     door.rotation.set(undefined, tile.rotY.toRad(), undefined);
 
                     scene.add(door);
+                } else if (tile.type === "elevator") {
+                    let elevator = new Elevator(size);
+                    elevator.position.set(tile.posX * size, tile.posY * size, tile.posZ * size);
+
+                    scene.add(elevator);
                 }
             } catch {
                 console.warn("Could not build object:", tile);

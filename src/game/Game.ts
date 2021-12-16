@@ -22,6 +22,8 @@ import { Raycaster } from "./Raycaster";
 import { SoundEmitter } from "./SoundEmitter";
 import { Sounds } from "../engine/resources/Sound";
 import { StaticObject } from "./StaticObject";
+import { Elevator } from "./Elevator";
+import { Resources } from "../engine/resources/Resources";
 
 const coords = document.getElementById("coords")!;
 // const aspectRatio = 8 / 5;
@@ -51,7 +53,11 @@ export class Game {
     private score: number;
     private floor: number;
 
+    private _won: boolean;
+
     constructor(lives: number) {
+        this._won = false;
+
         this.player = new Player(5 * BLOCKSIZE, (120).toRad(), lives);
         // this.player.position.set(BLOCKSIZE * 2, 0, BLOCKSIZE * 2);
         // this.player.position.set(BLOCKSIZE * 29, 0, BLOCKSIZE * 57);
@@ -107,9 +113,8 @@ export class Game {
         // this.enemy.moveTo(new Vector3(8 * BLOCKSIZE, 0, 2 * BLOCKSIZE));
     }
 
-    get canvas() {
-        return this.renderer.canvas;
-    }
+    get canvas() { return this.renderer.canvas }
+    get won() { return this._won }
 
     private shootEnemies(index: number, name?: string) {
         if (name !== undefined) {
@@ -219,6 +224,7 @@ export class Game {
         let objects: StaticObject[] = [];
         let doors: Door[] = [];
         let enemies: Enemy[] = [];
+        let elevators: Elevator[] = [];
 
         this.scene.children.forEach(child => {
             if (child instanceof Pickup) {
@@ -235,6 +241,10 @@ export class Game {
 
             if (child instanceof Enemy) {
                 enemies.push(child);
+            }
+
+            if (child instanceof Elevator) {
+                elevators.push(child);
             }
 
             if (child instanceof Mesh) {
@@ -454,6 +464,22 @@ export class Game {
 
                 if (dot >= DOOR_DOT && this.keyboard.data.interact_door === true) {
                     door.open();
+                }
+            }
+        });
+
+        elevators.forEach(elevator => {
+            let playerElevator = elevator.position.sub(this.player.position).toVector2();
+
+            if (playerElevator.length() <= BLOCKSIZE_ROOT2) {
+                playerElevator = playerElevator.normalize();
+                let playerLook = Vector3.backwards.rotateY(this.player.rotation.y).toVector2().normalize();
+                let dot = playerElevator.dot(playerLook);
+
+                if (dot >= DOOR_DOT && this.keyboard.data.interact_door === true && elevator.active === false) {
+                    elevator.switch();
+                    elevator.material.setAll(Resources.instance.data.textures.door_final_elevator_switch_up);
+                    setTimeout(() => { this._won = true }, 500);
                 }
             }
         });

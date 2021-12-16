@@ -3,7 +3,7 @@ import { Texture } from "../engine/resources/Texture";
 import { EnemyType } from "../game/Enemy";
 import { PickupType } from "../game/Pickup";
 
-export type TileType = "wall" | "door" | "object" | "pickup" | "enemy" | null;
+export type TileType = "wall" | "door" | "object" | "pickup" | "enemy" | "elevator" | null;
 
 export class Tile {
     readonly x: number;
