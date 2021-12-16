@@ -39,7 +39,7 @@ export class Player extends Camera {
             chaingun: false
         }
 
-        this._weaponStateMachine = Weapons.knifeStateMachine;
+        this._weaponStateMachine = Weapons.pistolStateMachine;
 
         this._shootFunction = () => { };
     }
