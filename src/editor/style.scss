@@ -1,0 +1,146 @@
+$bg-primary: rgb(17, 17, 21);
+$bg-secondary: rgb(37, 37, 41);
+$bg-tertiary: rgb(57, 57, 61);
+
+$fg-primary: rgb(245, 245, 245);
+$fg-secondary: rgb(205, 205, 205);
+$fg-tertiary: rgb(155, 155, 155);
+
+* {
+    box-sizing: border-box;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background-color: $bg-primary;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+#container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    #controls {
+        height: 100%;
+        width: 300px;
+        background-color: $bg-secondary;
+        padding: 10px;
+
+        h1 {
+            width: 100%;
+            height: 60px;
+            color: $fg-primary;
+            text-align: center;
+        }
+
+        #settings {
+            width: 100%;
+            height: 128px;
+
+            h2 {
+                width: 100%;
+                height: 40px;
+                text-align: center;
+                color: $fg-secondary;
+            }
+
+            input,
+            input:focus,
+            button,
+            button:focus {
+                outline: none;
+            }
+
+            button {
+                cursor: pointer;
+            }
+        }
+
+        h2 {
+            width: 100%;
+            height: 52px;
+            text-align: center;
+            color: $fg-secondary;
+        }
+
+        #tiles {
+            overflow-y: auto;
+            height: calc(100% - 128px - 40px - 52px - 20px);
+
+            .section {
+                width: 100%;
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+
+                &:not(:last-child) {
+                    margin-bottom: 24px;
+                }
+
+                h3 {
+                    width: 100%;
+                    height: 24px;
+                    margin-bottom: 8px;
+                    text-align: center;
+                    color: $fg-tertiary;
+                }
+
+                .preview {
+                    width: 64px;
+                    height: 64px;
+                    margin: 6px;
+                    cursor: pointer;
+
+                    &.selected {
+                        outline: 6px solid green;
+                        margin: 6px;
+                    }
+                }
+            }
+        }
+    }
+
+    #board-container {
+        height: 100%;
+        width: calc(100% - 300px);
+        background-color: $bg-primary;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: auto;
+        position: relative;
+
+        #board {
+            background-color: $bg-secondary;
+            outline: 1px solid $fg-secondary;
+            position: absolute;
+            top: 0;
+            left: 0;
+
+            .tile {
+                float: left;
+                border: 1px solid $fg-secondary;
+                cursor: pointer;
+            }
+        }
+    }
+}

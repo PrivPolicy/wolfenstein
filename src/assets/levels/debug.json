@@ -1,0 +1,173 @@
+[
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 1,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 2,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 3,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 1,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 1,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 2,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 2,
+        "posY": 0,
+        "posZ": 2,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 2,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 3,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 3,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 4,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 1,
+        "posY": 0,
+        "posZ": 4,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 2,
+        "posY": 0,
+        "posZ": 4,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 3,
+        "posY": 0,
+        "posZ": 4,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 4,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_01"
+        }
+    }
+]

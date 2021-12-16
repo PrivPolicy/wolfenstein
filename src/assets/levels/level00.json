@@ -1,0 +1,727 @@
+[
+    {
+        "posX": 2,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 3,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_03"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_04"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 9,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 10,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 11,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_03"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 13,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_02"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 0,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 1,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_alpo"
+        },
+        "pickupType": 0
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 1,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 2,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 2,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_chickenmeal"
+        },
+        "pickupType": 8
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 2,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood_decoration_02"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 3,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 3,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_firstaidkit"
+        },
+        "pickupType": 13
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 3,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 4,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_02"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 4,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_clip"
+        },
+        "pickupType": 1
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 4,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 5,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 5,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_extralife"
+        },
+        "pickupType": 9
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 5,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood_decoration_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 6,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 6,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_cross"
+        },
+        "pickupType": 4
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 6,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 7,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_chalice"
+        },
+        "pickupType": 5
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 8,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_03"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 8,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_chest"
+        },
+        "pickupType": 6
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 8,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood_decoration_03"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 9,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_crown"
+        },
+        "pickupType": 7
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 10,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 10,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_key_golden"
+        },
+        "pickupType": 11
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 10,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 11,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_decoration_04"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 11,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_key_silver"
+        },
+        "pickupType": 12
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 11,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood_decoration_02"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 12,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 12,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_machinegun"
+        },
+        "pickupType": 14
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 12,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 13,
+        "type": "pickup",
+        "texture": {
+            "type": "normal",
+            "texture": "pickup_chaingun"
+        },
+        "pickupType": 15
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood_decoration_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 14,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 14,
+        "type": "object",
+        "texture": {
+            "type": "normal",
+            "texture": "object_armor"
+        },
+        "colliderEnabled": true,
+        "raycastTarget": false
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 14,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 1,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 2,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 3,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood_decoration_02"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood_decoration_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 9,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 10,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood_decoration_02"
+        }
+    },
+    {
+        "posX": 11,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 13,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood_decoration_03"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    }
+]

@@ -1,0 +1,7025 @@
+[
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 29,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 33,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 34,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 35,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 39,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 7,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 8,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 8,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 18,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 19,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 20,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 21,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 22,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 23,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 24,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 25,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 42,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 9,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 10,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 10,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 10,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 10,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 11,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 11,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 11,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 12,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 12,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 12,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 12,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 9,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 10,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 11,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 13,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 21,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 22,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 23,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 24,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 25,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 42,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 13,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 14,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 14,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 14,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 21,
+        "posY": 0,
+        "posZ": 14,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 14,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 14,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 16,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 21,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 22,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 23,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 29,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 33,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
+    },
+    {
+        "posX": 34,
+        "posY": 0,
+        "posZ": 15,
+        "rotY": 0,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 35,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 39,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 15,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 16,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 16,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 23,
+        "posY": 0,
+        "posZ": 16,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 16,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 16,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 17,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 17,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 23,
+        "posY": 0,
+        "posZ": 17,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 17,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 17,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 18,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 18,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 23,
+        "posY": 0,
+        "posZ": 18,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 18,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 18,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 1,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 2,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 3,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 16,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 18,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 19,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 20,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 21,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 22,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 23,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 19,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 20,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 20,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 20,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 20,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 20,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 20,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 9,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 10,
+        "posY": 0,
+        "posZ": 21,
+        "rotY": 0,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 11,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 13,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 21,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 22,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 22,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 22,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 22,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 22,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 22,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 1,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 3,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 23,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 24,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 24,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 24,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 24,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 24,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 24,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 24,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 24,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 24,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 25,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 25,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 25,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 25,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 25,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 25,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 26,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 26,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 26,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 26,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 26,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 27,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 27,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 27,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 27,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 27,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 27,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 9,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 10,
+        "posY": 0,
+        "posZ": 28,
+        "rotY": 0,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 11,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 13,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 33,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
+    },
+    {
+        "posX": 34,
+        "posY": 0,
+        "posZ": 28,
+        "rotY": 0,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 35,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_wood"
+            }
+        ]
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_wood"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 54,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 55,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 56,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 57,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 58,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 59,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 60,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 61,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 28,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 29,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 39,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 42,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 29,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 30,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 30,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 30,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 30,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 30,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 42,
+        "posY": 0,
+        "posZ": 30,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 30,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 30,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 42,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 44,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 45,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 47,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 48,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 49,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 50,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 51,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 52,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 31,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 32,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 32,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 32,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 32,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 32,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 32,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 32,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 33,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 33,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 33,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 33,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 33,
+        "type": "enemy",
+        "texture": {
+            "type": "normal",
+            "texture": "enemy_trooper_attack_01"
+        },
+        "enemyType": "trooper"
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 33,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 33,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 33,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 34,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 34,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 34,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 34,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 34,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 34,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 34,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 42,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 43,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 44,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 45,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 50,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 51,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 52,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 35,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 42,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 45,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 49,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 50,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 36,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 29,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 39,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 42,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 49,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 37,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 9,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 10,
+        "posY": 0,
+        "posZ": 38,
+        "rotY": 0,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 11,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 13,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 33,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 34,
+        "posY": 0,
+        "posZ": 38,
+        "rotY": 0,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 35,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 49,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 54,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 55,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 57,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 58,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 60,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 61,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 62,
+        "posY": 0,
+        "posZ": 38,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 49,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 55,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 56,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 57,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 58,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 59,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 60,
+        "posY": 0,
+        "posZ": 39,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 49,
+        "posY": 0,
+        "posZ": 40,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 49,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 51,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 52,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 54,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 55,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 56,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 57,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 58,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 59,
+        "posY": 0,
+        "posZ": 41,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 49,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 50,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 51,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 55,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 57,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 59,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 60,
+        "posY": 0,
+        "posZ": 42,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 43,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 43,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 43,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 43,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 43,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 43,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 43,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 50,
+        "posY": 0,
+        "posZ": 43,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 60,
+        "posY": 0,
+        "posZ": 43,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 50,
+        "posY": 0,
+        "posZ": 44,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 60,
+        "posY": 0,
+        "posZ": 44,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 13,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 16,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 18,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 19,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 20,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 21,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 22,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 23,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 24,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 50,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 60,
+        "posY": 0,
+        "posZ": 45,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 24,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 25,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 46,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 47,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 48,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 49,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 50,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 51,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 55,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 57,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 59,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 60,
+        "posY": 0,
+        "posZ": 46,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 47,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 25,
+        "posY": 0,
+        "posZ": 47,
+        "type": "object",
+        "texture": {
+            "type": "normal",
+            "texture": "object_flag"
+        },
+        "colliderEnabled": true,
+        "raycastTarget": false
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 51,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 52,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 53,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 54,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 55,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 56,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 57,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 58,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 59,
+        "posY": 0,
+        "posZ": 47,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 48,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 48,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_cobblestone_mossy_01"
+            }
+        ]
+    },
+    {
+        "posX": 24,
+        "posY": 0,
+        "posZ": 48,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 25,
+        "posY": 0,
+        "posZ": 48,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 26,
+        "posY": 0,
+        "posZ": 48,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 48,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 48,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 1,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 2,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 3,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 4,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 5,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 6,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 7,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 8,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 9,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 10,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 11,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 12,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 13,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 14,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 15,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 16,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 17,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 18,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 19,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 20,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 21,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 22,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 23,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 24,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_cobblestone_mossy_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 49,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 29,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 33,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 34,
+        "posY": 0,
+        "posZ": 50,
+        "rotY": 0,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 35,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 39,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 50,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 51,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 51,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 51,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 51,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 52,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 52,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 52,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 52,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 53,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 53,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 53,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 53,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 54,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 54,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 54,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 54,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 29,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 39,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 55,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 56,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 56,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 56,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 56,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 57,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 57,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 57,
+        "rotY": 90,
+        "type": "door",
+        "texture": {
+            "type": "normal",
+            "texture": "door_front"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 57,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 58,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 58,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 58,
+        "type": "wall",
+        "texture": [
+            {
+                "type": "normal",
+                "texture": "door_side"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            },
+            {
+                "type": "normal",
+                "texture": "wall_bluestone_01"
+            }
+        ]
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 58,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 29,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 39,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 59,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 60,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 60,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 61,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 61,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 62,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 62,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 27,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 28,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 29,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 30,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 31,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 32,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 33,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 34,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 35,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 36,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 37,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 38,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 39,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 40,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    },
+    {
+        "posX": 41,
+        "posY": 0,
+        "posZ": 63,
+        "type": "wall",
+        "texture": {
+            "type": "normal",
+            "texture": "wall_bluestone_01"
+        }
+    }
+]
