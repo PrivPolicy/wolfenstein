@@ -85,4 +85,17 @@ body {
         background-color: rgba(18, 18, 18, 0.7);
         color: whitesmoke;
     }
+
+    a {
+        position: absolute;
+        bottom: 16px;
+
+        &:link,
+        &:active,
+        &:visited,
+        &:hover {
+            text-decoration: none;
+            color: whitesmoke;
+        }
+    }
 }
